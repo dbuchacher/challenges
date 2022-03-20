@@ -1,26 +1,26 @@
 ﻿# challenges
  
-# christmas carol
+### christmas carol
 * Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song.
 * https://github.com/dbuchacher/challenges/blob/main/christmas-carol/src/main.rs
 
-# company database
+### company database
 * Using a hash map and vectors, create a text interface to allow a user to add employee names to a department in a company. For example, “Add Sally to Engineering” or “Add Amir to Sales.” Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
 * https://github.com/dbuchacher/challenges/blob/main/company-database/src/main.rs
 
-# days between dates
+### days between dates
 * Create a function that takes two dates and returns the number of days between the first and second date. - https://edabit.com/challenge/3hdXjfJozQySRC3gE
 * https://github.com/dbuchacher/challenges/blob/main/days-between-dates/src/main.rs
 
-# fibonacci
+### fibonacci
 * Generate the nth Fibonacci number
 * https://github.com/dbuchacher/challenges/blob/main/fibonacci/src/main.rs
 
-# find median and mode
+### find median and mode
 * Given a list of integers, use a vector and return the median (when sorted, the value in the middle position) and mode (the value that occurs most often; a hash map will be helpful here) of the list.
 * https://github.com/dbuchacher/challenges/blob/main/find-median-mode/src/main.rs
 
-# harvest festival
+### harvest festival
 ```
     You have cultivated a plant, and after three long months, the time has come to reap the fruits (or the flowers, in this case) of your hard work. During the growth phase, you added water and fertilizer, and kept a constant temperature. It's time to check how much the plant has grown!
     A plant is represented horizontally, from the base to the left, to the end to the right:
@@ -37,10 +37,10 @@
 ```
 * https://github.com/dbuchacher/challenges/blob/main/harvest-festival/src/main.rs
 
-# how much is true
+### how much is true
 * Create a function which returns the number of true values there are in an array. - https://edabit.com/challenge/GLbuMfTtDWwDv2F73
 * https://github.com/dbuchacher/challenges/blob/main/how-much-is-true/src/main.rs
 
-# pig latin
+### pig latin
 * Convert strings to pig latin. The first consonant of each word is moved to the end of the word and “ay” is added, so “first” becomes “irst-fay.” Words that start with a vowel have “hay” added to the end instead (“apple” becomes “apple-hay”). Keep in mind the details about UTF-8 encoding!
 * https://github.com/dbuchacher/challenges/blob/main/pig-latin/src/main.rs
