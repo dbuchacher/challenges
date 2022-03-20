@@ -1,0 +1,11 @@
+D:\code\rust\challenges\days-between-dates\target\debug\deps\libc-8051e3fd6ee11fcf.rmeta: C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\lib.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\macros.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\fixed_width_ints.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\mod.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\msvc\mod.rs
+
+D:\code\rust\challenges\days-between-dates\target\debug\deps\liblibc-8051e3fd6ee11fcf.rlib: C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\lib.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\macros.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\fixed_width_ints.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\mod.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\msvc\mod.rs
+
+D:\code\rust\challenges\days-between-dates\target\debug\deps\libc-8051e3fd6ee11fcf.d: C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\lib.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\macros.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\fixed_width_ints.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\mod.rs C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\msvc\mod.rs
+
+C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\lib.rs:
+C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\macros.rs:
+C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\fixed_width_ints.rs:
+C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\mod.rs:
+C:\Users\massaker\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.121\src\windows\msvc\mod.rs:
