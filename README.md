@@ -23,3 +23,6 @@
 
 ### pig latin [(source)](https://github.com/dbuchacher/challenges/blob/main/pig-latin/src/main.rs)
 * Convert strings to pig latin. The first consonant of each word is moved to the end of the word and “ay” is added, so “first” becomes “irst-fay.” Words that start with a vowel have “hay” added to the end instead (“apple” becomes “apple-hay”). Keep in mind the details about UTF-8 encoding!
+
+### Does the Triangle Fit into the Triangular Hole [(source)](https://github.com/dbuchacher/challenges/blob/main/triangle-fit-into-triangle-hole/src/main.rs)
+* Create a function that takes the dimensions of two triangles (as arrays) and checks if the first triangle fits into the second one. - https://edabit.com/challenge/7e2Aq87tDpW2CK7XH
